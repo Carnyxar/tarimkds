@@ -1,3 +1,12 @@
+## Canlı Uygulama
+
+TarımKDS, tarımsal sensör verilerini analiz etmek ve anormal ölçümleri tespit etmek amacıyla geliştirilmiştir.
+
+Uygulamayı herhangi bir kurulum yapmadan tarayıcı üzerinden kullanabilirsiniz:
+
+**[TarımKDS Web Uygulamasını Aç](https://tarimkds-am4mmurbfruee6p6nvfkji.streamlit.app/)**
+
+Uygulama; veri analizi, veri kalitesi kontrolü, üç farklı anormallik tespit modelinin karşılaştırılması ve Gemini destekli Türkçe raporlama özelliklerini içermektedir.
 # TarımKDS — Tarımsal Veri Analizi ve Karar Destek Sistemi
 
 Veri Madenciliği dersi için küçük bir **Streamlit** uygulaması. Turp mikrofiliz (radish microgreens) sensör verilerini inceler, üç anormallik tespit modelini karşılaştırır ve istenirse Gemini ile Türkçe rapor üretir.
