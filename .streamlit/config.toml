@@ -1,0 +1,13 @@
+# Her iki görünümde de okunabilir renkler. Kullanıcı Settings > Theme ile değiştirir.
+[theme]
+primaryColor = "#cf494f"
+
+[theme.light]
+backgroundColor = "#ffffff"
+secondaryBackgroundColor = "#f8fafc"
+textColor = "#1e293b"
+
+[theme.dark]
+backgroundColor = "#0f172a"
+secondaryBackgroundColor = "#1e293b"
+textColor = "#e5e7eb"

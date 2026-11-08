@@ -1,7 +1,6 @@
-pandas
-numpy
-scikit-learn
-matplotlib
-seaborn
-streamlit
-google-genai
+pandas>=2.2
+numpy>=1.26
+scikit-learn>=1.5
+streamlit>=1.40
+plotly>=5.20
+google-genai>=1.0
